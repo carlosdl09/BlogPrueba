@@ -33,3 +33,13 @@ body {
     font-size: 20px;
     display: inline-block;
 }
+
+.logo {
+    width: 20px;
+    vertical-align: middle;
+}
+
+.post {
+    background: white;
+    padding: 1em;
+}
