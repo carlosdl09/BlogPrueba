@@ -39,6 +39,11 @@ body {
     vertical-align: middle;
 }
 
+.img-post {
+    padding: 10px;
+    
+}
+
 .footer {
     background: #777;
     color: white;
